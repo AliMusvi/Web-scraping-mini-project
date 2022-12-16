@@ -1,0 +1,1 @@
+The final project of the advanced Python course by Jadi Mirmirani about "Extracting car specifications from the website and pricing new cars"
